@@ -1,0 +1,86 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+dist-ssr/
+.out/
+.next/
+.build/
+
+# Vite cache
+.vite/
+.cache/
+
+# Temporary files
+*.local
+*.lock
+*.pid
+*.seed
+*.tmp
+
+# Editor-specific directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables (security)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ESLint and Prettier cache
+.eslintcache
+.prettiercache
+
+# Testing
+/coverage/
+jest.cache/
+cypress/screenshots/
+cypress/videos/
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Next.js specific
+.next/
+out/
+
+# React-specific
+*.react_devtools/
+
+# Tailwind CSS cache
+.tailwind/
+postcss.config.js
+
+# Storybook
+.storybook/
+storybook-static/
+
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+
+# MacOS-specific
+*.DS_Store
+
+# Linux-specific
+*~

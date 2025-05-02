@@ -68,7 +68,7 @@ out/
 
 # Tailwind CSS cache
 .tailwind/
-postcss.config.js
+
 
 # Storybook
 .storybook/
